@@ -1,5 +1,5 @@
 {
-  "name": "data-server-ver2",
+  "name": "data-server-crud",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
