@@ -36,3 +36,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * how-to use an in memory-server for Angular 6.x to do CRUD.
 
 ## Error handling
+
+## Add routing modele
+* ```ng generate module app-routing --flat --module=app```
