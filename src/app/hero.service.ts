@@ -13,7 +13,12 @@ export class HeroService {
 
   constructor(
     private http: HttpClient,
-    private messageService: MessageService ) { }
+    private messageService: MessageService) { }
+
+  /** Log a HeroService message with the MessageService */
+  private log(message: string) {
+    this.messageService.add(`HeroService: ${message}`);
+  }
 
   /* Old function for mock heros
   getHeroes(): Observable<Hero[]> {

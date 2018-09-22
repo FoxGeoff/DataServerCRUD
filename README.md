@@ -32,5 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Up to here we have the very basics of using  an in-memory service ##
 
-#DataServerCRUD
+# DataServerCRUD
 * how-to use an in memory-server for Angular 6.x to do CRUD.
+
+## Error handling
